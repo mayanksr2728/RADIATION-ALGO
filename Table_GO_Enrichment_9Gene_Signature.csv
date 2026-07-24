@@ -1,0 +1,13 @@
+"ID","Description","GeneRatio","Count","p.adjust"
+"GO:0045740","positive regulation of DNA replication","3/9",3,0.000261977129304886
+"GO:0006260","DNA replication","4/9",4,0.00156446625511663
+"GO:0006275","regulation of DNA replication","3/9",3,0.00262213546965739
+"GO:0044786","cell cycle DNA replication","2/9",2,0.0087519827310762
+"GO:0090068","positive regulation of cell cycle process","3/9",3,0.0087519827310762
+"GO:0009394","2'-deoxyribonucleotide metabolic process","2/9",2,0.0087519827310762
+"GO:0090329","regulation of DNA-templated DNA replication","2/9",2,0.0087519827310762
+"GO:0009262","deoxyribonucleotide metabolic process","2/9",2,0.0087519827310762
+"GO:0045787","positive regulation of cell cycle","3/9",3,0.0124532512408705
+"GO:1901992","positive regulation of mitotic cell cycle phase transition","2/9",2,0.026218757871729
+"GO:1901987","regulation of cell cycle phase transition","3/9",3,0.0313966908131718
+"GO:1901989","positive regulation of cell cycle phase transition","2/9",2,0.0313966908131718
