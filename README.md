@@ -65,3 +65,9 @@ Upon completion, verify that the following data artifacts exist in your /outputs
  * 03_p53_control_summary.csv: Gene-level response loss metrics in the Trp53-null mouse context.
  * 04_tcga_cox_results.rds: Fitted unadjusted and multivariate Cox Proportional Hazards summary objects.
  * 
+
+
+
+NOTE:
+TCGA-HNSC transcriptomic and clinical data were accessed programmatically via the TCGAbiolinks R package (Colaprico et al., 2016) from the NCI Genomic Data Commons. 
+Due to computational resource constraints, processed intermediate files (risk scores, survival model inputs) are not included in this repository but can be regenerated using the provided analysis scripts and the query parameters specified in the Methods section.
